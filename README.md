@@ -1,26 +1,31 @@
-<h1 align="center">Hey, I'm José 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=José+Braz;Web+Developer;Future+Journalism+Student;Building+for+the+Web" />
+</h1>
 
 <p align="center">
-  🎓 High School Student <br>
-  📰 Future Journalism student at University of Coimbra <br>
-  💻 Web Developer | Linux Enthusiast | Freelancer <br>
-  🎮 Gamer & Tech Lover
+  Web Developer • Open Source Enthusiast • Future Journalism Student
+</p>
+
+<p align="center">
+  <a href="https://pixelbarz.github.io/portifolio/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/josé-braz-9842023a8">LinkedIn</a> •
+  <a href="mailto:barz.pessoal@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About
 
-- 🎯 Focused on becoming a journalist in Portugal
-- 🌍 From Brazil
-- 💼 Co-founder & developer at Casa Trigo Zero
-- 🖥️ Passionate about Web Development and Open Source
-- 🐧 Linux user who loves testing new distros
-- 🎮 Gamer and tech experimenter
+Brazilian high school student passionate about technology, communication and digital experiences.
+
+Co-founder & developer at **Casa Trigo Zero**.  
+Focused on front-end development, modern JavaScript and building real-world projects.
+
+Future Journalism student aiming for University of Coimbra.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,git,github,linux,figma,vscode" />
@@ -28,32 +33,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Current Focus
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pixelbarz&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelbarz&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🎯 Current Goals
-
-- 📚 Improve JavaScript & TypeScript
-- 🌐 Expand my professional portfolio
-- 📰 Prepare for Journalism at University of Coimbra
-- 🚀 Grow as a freelancer
-
----
-
-## 📫 Contact
-
-- 🌍 Portfolio: https://pixelbarz.github.io/portifolio/
-- 📧 Email: barz.pessoal@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/josé-braz-9842023a8
+- Building scalable front-end projects  
+- Improving TypeScript and modern JS  
+- Expanding professional portfolio  
+- Growing as a freelance developer  
 
 ---
 
 <p align="center">
-  ⭐ Always learning. Always building.
+  <i>Building things for the web.</i>
 </p>
