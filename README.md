@@ -33,7 +33,7 @@ Focused on front-end development, modern JavaScript, and building clean, fast we
 ## Widgets
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31icrsigou7ipk73uv6gnqsus3oq&theme=default&show_offline=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelbarz&show_icons=true&hide_title=true&theme=default" />
 </p>
 
 ---
