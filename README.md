@@ -1,31 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=José+Braz;Web+Developer;Future+Journalism+Student;Building+for+the+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PixelBarz;Building+for+the+Web" />
 </h1>
 
 <p align="center">
-  Web Developer • Open Source Enthusiast • Future Journalism Student
-</p>
-
-<p align="center">
-  <a href="https://pixelbarz.github.io/portifolio/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/josé-braz-9842023a8">LinkedIn</a> •
-  <a href="mailto:barz.pessoal@gmail.com">Email</a>
+  Web Developer • Open Source
 </p>
 
 ---
 
-## 👨‍💻 About
+## About
 
-Brazilian high school student passionate about technology, communication and digital experiences.
-
-Co-founder & developer at **Casa Trigo Zero**.  
-Focused on front-end development, modern JavaScript and building real-world projects.
-
-Future Journalism student aiming for University of Coimbra.
+Focused on front-end development, modern JavaScript, and building clean, fast web experiences.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,git,github,linux,figma,vscode" />
@@ -33,12 +22,19 @@ Future Journalism student aiming for University of Coimbra.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- Building scalable front-end projects  
-- Improving TypeScript and modern JS  
-- Expanding professional portfolio  
-- Growing as a freelance developer  
+- Building scalable front-end projects
+- Improving TypeScript and modern JS
+- Creating polished UI and UX
+
+---
+
+## Widgets
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31icrsigou7ipk73uv6gnqsus3oq&cover_image=true&theme=default&show_offline=false&background_color=0d0d0d&interchange=false" />
+</p>
 
 ---
 
