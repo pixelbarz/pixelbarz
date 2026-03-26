@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=PixelBarz;Frontend+Developer;Building+clean+web+experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=PixelBarz;Frontend+Developer" />
 </h1>
 
 <p align="center">
@@ -11,14 +11,14 @@
 ## About
 
 Frontend developer focused on building fast, modern and well-structured interfaces.  
-Turning ideas into clean and polished web experiences.
+Clean code, performance and good UI are the priority.
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,linux,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,linux,vscode" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Turning ideas into clean and polished web experiences.
 ## Focus
 
 - Scalable front-end architecture  
-- Advanced TypeScript and modern JavaScript  
+- TypeScript and modern JavaScript  
 - Clean UI and consistent UX  
 
 ---
@@ -34,8 +34,12 @@ Turning ideas into clean and polished web experiences.
 ## Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pixelbarz&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelbarz&layout=compact&hide_border=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pixelbarz&show_icons=true&hide_title=true&hide_border=true&theme=default&cache_seconds=1800" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelbarz&layout=compact&hide_border=true&theme=default&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=pixelbarz&theme=default&hide_border=true" />
 </p>
 
 ---
