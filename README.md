@@ -40,5 +40,5 @@ Clean code, performance and good UI are the priority.
 ---
 
 <p align="center">
-  <i>building for the web.</i>
+  <i>The silliest dev.</i>
 </p>
