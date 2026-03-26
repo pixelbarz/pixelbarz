@@ -34,10 +34,6 @@ Clean code, performance and good UI are the priority.
 ## Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelbarz&layout=compact&hide_border=true&theme=default&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=pixelbarz&theme=default&hide_border=true" />
 </p>
 
