@@ -12,7 +12,7 @@
 
 <div align="center">
 
-**[ PIXELBARZ · FRONT-END · BRASIL ]**
+**[ BARZ · FRONT-END · BRASIL ]**
 
 </div>
 
