@@ -34,29 +34,29 @@ vez, e às vezes as duas coisas acabam vazando pro CSS.
 
 **CORE**
 
-![HTML5](https://img.shields.io/badge/HTML5-050A14?style=flat-square&logo=html5&logoColor=39FF88)
-![CSS3](https://img.shields.io/badge/CSS3-050A14?style=flat-square&logo=css3&logoColor=39FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-050A14?style=flat-square&logo=javascript&logoColor=39FF88)
+![HTML5](https://img.shields.io/badge/HTML5-050A14?style=flat-square&logo=html5&logoColor=00BBFA)
+![CSS3](https://img.shields.io/badge/CSS3-050A14?style=flat-square&logo=css3&logoColor=00BBFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-050A14?style=flat-square&logo=javascript&logoColor=00BBFA)
 
 **UI / DESIGN**
 
-![Figma](https://img.shields.io/badge/Figma-050A14?style=flat-square&logo=figma&logoColor=39FF88)
-![CSS Variables](https://img.shields.io/badge/CSS_Variables-050A14?style=flat-square&logo=css3&logoColor=39FF88)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-050A14?style=flat-square&logo=googlechrome&logoColor=39FF88)
+![Figma](https://img.shields.io/badge/Figma-050A14?style=flat-square&logo=figma&logoColor=00BBFA)
+![CSS Variables](https://img.shields.io/badge/CSS_Variables-050A14?style=flat-square&logo=css3&logoColor=00BBFA)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-050A14?style=flat-square&logo=googlechrome&logoColor=00BBFA)
 
 **FERRAMENTAS**
 
-![Git](https://img.shields.io/badge/Git-050A14?style=flat-square&logo=git&logoColor=39FF88)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-050A14?style=flat-square&logo=github&logoColor=39FF88)
-![VS Code](https://img.shields.io/badge/VS_Code-050A14?style=flat-square&logo=visualstudiocode&logoColor=39FF88)
-![Linux](https://img.shields.io/badge/Linux-050A14?style=flat-square&logo=linux&logoColor=39FF88)
+![Git](https://img.shields.io/badge/Git-050A14?style=flat-square&logo=git&logoColor=00BBFA)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-050A14?style=flat-square&logo=github&logoColor=00BBFA)
+![VS Code](https://img.shields.io/badge/VS_Code-050A14?style=flat-square&logo=visualstudiocode&logoColor=00BBFA)
+![Linux](https://img.shields.io/badge/Linux-050A14?style=flat-square&logo=linux&logoColor=00BBFA)
 
 **APRENDENDO**
 
-![React](https://img.shields.io/badge/React-050A14?style=flat-square&logo=react&logoColor=16C172)
-![TypeScript](https://img.shields.io/badge/TypeScript-050A14?style=flat-square&logo=typescript&logoColor=16C172)
-![Vite](https://img.shields.io/badge/Vite-050A14?style=flat-square&logo=vite&logoColor=16C172)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050A14?style=flat-square&logo=tailwindcss&logoColor=16C172)
+![React](https://img.shields.io/badge/React-050A14?style=flat-square&logo=react&logoColor=00BBFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-050A14?style=flat-square&logo=typescript&logoColor=00BBFA)
+![Vite](https://img.shields.io/badge/Vite-050A14?style=flat-square&logo=vite&logoColor=00BBFA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050A14?style=flat-square&logo=tailwindcss&logoColor=00BBFA)
 
 ---
 
