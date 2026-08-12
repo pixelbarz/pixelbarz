@@ -81,6 +81,7 @@ vez, e às vezes as duas coisas acabam vazando pro CSS.
 ```
 
 <div align="center">
+ 
 ![Github stats](https://github-stats-extended.vercel.app/api?username=pixelbarz&rank_icon=github&custom_title=Meus%20status&show_icons=true&include_all_commits=true&theme=algolia)
 
 </div>
