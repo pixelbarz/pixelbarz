@@ -1,11 +1,14 @@
 ```
- ________  ________  ________ ________     
-|\   __  \|\   __  \|\   __  \\_____  \    
-\ \  \|\ /\ \  \|\  \ \  \|\  \|___/  /|   
- \ \   __  \ \   __  \ \   _  _\  /  / /   
-  \ \  \|\  \ \  \ \  \ \  \\  \|/  /_/__  
-   \ \_______\ \__\ \__\ \__\\ _\\________\
-    \|_______|\|__|\|__|\|__|\|__\|_______|
+ ________  ___     ___    ___ _______   ___       ________  ________  ________ ________     
+|\   __  \|\  \   |\  \  /  /|\  ___ \ |\  \     |\   __  \|\   __  \|\   __  \\_____  \    
+\ \  \|\  \ \  \  \ \  \/  / | \   __/|\ \  \    \ \  \|\ /\ \  \|\  \ \  \|\  \|___/  /|   
+ \ \   ____\ \  \  \ \    / / \ \  \_|/_\ \  \    \ \   __  \ \   __  \ \   _  _\  /  / /   
+  \ \  \___|\ \  \  /     \/   \ \  \_|\ \ \  \____\ \  \|\  \ \  \ \  \ \  \\  \|/  /_/__  
+   \ \__\    \ \__\/  /\   \    \ \_______\ \_______\ \_______\ \__\ \__\ \__\\ _\\________\
+    \|__|     \|__/__/ /\ __\    \|_______|\|_______|\|_______|\|__|\|__|\|__|\|__\|_______|
+                  |__|/ \|__|                                                               
+                                                                                            
+                                                                                            
 ```
 
 <div align="center">
@@ -90,9 +93,9 @@ vez, e às vezes as duas coisas acabam vazando pro CSS.
 > cat contato.txt
 ```
 
-[![Portfolio](https://img.shields.io/badge/josebraz.cc-050A14?style=flat-square&logo=firefox&logoColor=39FF88)](https://josebraz.cc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050A14?style=flat-square&logo=linkedin&logoColor=39FF88)](https://www.linkedin.com/in/josé-braz-9842023a8/)
-[![Links](https://img.shields.io/badge/Todos_os_links-050A14?style=flat-square&logo=linktree&logoColor=39FF88)](https://pixelbarz.github.io/linksdobarz/)
+[![Portfolio](https://img.shields.io/badge/josebraz.cc-050A14?style=flat-square&logo=firefox&logoColor=00BBFA)](https://josebraz.cc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050A14?style=flat-square&logo=linkedin&logoColor=00BBFA)](https://www.linkedin.com/in/josé-braz-9842023a8/)
+[![Links](https://img.shields.io/badge/Todos_os_links-050A14?style=flat-square&logo=linktree&logoColor=00BBFA)](https://pixelbarz.github.io/linksdobarz/)
 
 ---
 
