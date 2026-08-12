@@ -82,7 +82,7 @@ vez, e às vezes as duas coisas acabam vazando pro CSS.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixelbarz&show_icons=true&hide_border=true&bg_color=050A14&title_color=39FF88&text_color=8BD4B0&icon_color=16C172&hide_rank=false)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pixelbarz&hide_progress=true&langs_count=4&theme=algolia)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelbarz&layout=compact&hide_border=true&bg_color=050A14&title_color=39FF88&text_color=8BD4B0&langs_count=6)
 
 </div>
