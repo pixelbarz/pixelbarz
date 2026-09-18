@@ -92,7 +92,7 @@ vez, e às vezes as duas coisas acabam vazando pro CSS.
 > cat contato.txt
 ```
 
-[![Portfolio](https://img.shields.io/badge/josebraz.cc-050A14?style=flat-square&logo=firefox&logoColor=00BBFA)](https://pixelbarz.cc)
+[![Portfolio](https://img.shields.io/badge/pixelbarz.cc-050A14?style=flat-square&logo=firefox&logoColor=00BBFA)](https://pixelbarz.cc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050A14?style=flat-square&logo=linkedin&logoColor=00BBFA)](https://www.linkedin.com/in/josé-braz-9842023a8/)
 [![Links](https://img.shields.io/badge/Todos_os_links-050A14?style=flat-square&logo=linktree&logoColor=00BBFA)](https://pixelbarz.github.io/linksdobarz/)
 
