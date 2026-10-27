@@ -40,6 +40,8 @@ vez, e às vezes as duas coisas acabam vazando pro CSS.
 ![HTML5](https://img.shields.io/badge/HTML5-050A14?style=flat-square&logo=html5&logoColor=00BBFA)
 ![CSS3](https://img.shields.io/badge/CSS3-050A14?style=flat-square&logo=css3&logoColor=00BBFA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-050A14?style=flat-square&logo=javascript&logoColor=00BBFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-050A14?style=flat-square&logo=typescript&logoColor=00BBFA)
+![Python](https://img.shields.io/badge/Python-050A14?style=flat-square&logo=python&logoColor=00BBFA)
 
 **UI / DESIGN**
 
@@ -57,7 +59,6 @@ vez, e às vezes as duas coisas acabam vazando pro CSS.
 **APRENDENDO**
 
 ![React](https://img.shields.io/badge/React-050A14?style=flat-square&logo=react&logoColor=00BBFA)
-![TypeScript](https://img.shields.io/badge/TypeScript-050A14?style=flat-square&logo=typescript&logoColor=00BBFA)
 ![Vite](https://img.shields.io/badge/Vite-050A14?style=flat-square&logo=vite&logoColor=00BBFA)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050A14?style=flat-square&logo=tailwindcss&logoColor=00BBFA)
 
