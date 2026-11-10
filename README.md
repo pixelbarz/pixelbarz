@@ -71,6 +71,7 @@ vez, e às vezes as duas coisas acabam vazando pro CSS.
 | REPOSITÓRIO | DESCRIÇÃO | STATUS |
 |---|---|---|
 | [portifolio](https://github.com/pixelbarz/portifolio) | Site pessoal com visual inspirado em UIs de jogos japoneses | `LIVE` |
+| [TeemoBOT](https://github.com/pixelbarz/TeemoBOTSITE) | Site oficial do bot: economia, recompensas, moderação e um manual completo de comandos. | `LIVE` |
 | [studyos](https://github.com/pixelbarz/studyos) | Planner de estudos offline-first, PWA com IndexedDB | `LIVE` |
 | [casatrigozero](https://github.com/pixelbarz/casatrigozero) | Landing page para cliente real | `LIVE` |
 | [linksdobarz](https://github.com/pixelbarz/linksdobarz) | Página de links centralizada | `LIVE` |
